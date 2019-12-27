@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbcd32c5-682c-40a2-97f5-7fd534906ea0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/git2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UirQd8SK7nIjNJB6WekF87DhBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbcd32c5-682c-40a2-97f5-7fd534906ea0" name="Default Changelist" comment="" />
+      <created>1575850241984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575850241984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="696" y="188" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1575850314103">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="696" y="188" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1920.977@0.23.1920.977" timestamp="1575850314103" />
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577430534671">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1577430534671" />
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1577430051450">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog/0.23.1920.977@0.23.1920.977" timestamp="1577430051450" />
+  </component>
+</project>

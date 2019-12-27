@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80bdceca-c5dd-42e2-83ec-f12687171ff5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UXcQgZCMClGbEA6IFehoVFsgmt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spark.App" />
+      <module name="testscala2" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="testscala2" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparkwordcount" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spark.sparkwordcount" />
+      <module name="testscala2" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.sparkwordcount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80bdceca-c5dd-42e2-83ec-f12687171ff5" name="Default Changelist" comment="" />
+      <created>1575506365217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575506365217</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Project_Structure" timestamp="1575525858318">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1575525858318" />
+    <state x="156" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575528342334">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="156" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1575528342334" />
+    <state x="457" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575528210533">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1575528210533" />
+    <state x="608" y="161" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1575837268832">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="456" y="127" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1575526024050" />
+    <state x="608" y="161" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1920.977@0.23.1920.977" timestamp="1575837268832" />
+    <state width="1878" height="245" key="GridCell.Tab.0.bottom" timestamp="1577377855703">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575528085364" />
+    <state width="1878" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575701067063" />
+    <state width="1878" height="245" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1577377855703" />
+    <state width="1878" height="245" key="GridCell.Tab.0.center" timestamp="1577377855702">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575528085363" />
+    <state width="1878" height="245" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575701067061" />
+    <state width="1878" height="245" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1577377855702" />
+    <state width="1878" height="245" key="GridCell.Tab.0.left" timestamp="1577377855701">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575528085362" />
+    <state width="1878" height="245" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575701067060" />
+    <state width="1878" height="245" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1577377855701" />
+    <state width="1878" height="245" key="GridCell.Tab.0.right" timestamp="1577377855703">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575528085363" />
+    <state width="1878" height="245" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575701067062" />
+    <state width="1878" height="245" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1577377855703" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1575527437446">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575527437446" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1575526463601">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1575526463601" />
+    <state x="602" y="213" key="new project wizard" timestamp="1575850241942">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="602" y="213" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1575850241941" />
+    <state x="513" y="251" width="894" height="733" key="run.anything.popup" timestamp="1575849904879">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1575526889920" />
+    <state x="513" y="251" width="894" height="733" key="run.anything.popup/0.23.1920.977@0.23.1920.977" timestamp="1575849904879" />
+    <state x="625" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1575837323214">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="625" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1575837323214" />
+  </component>
+</project>
